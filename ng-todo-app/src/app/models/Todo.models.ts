@@ -8,7 +8,6 @@ export class Todo{
 this.id=id;
 this.title=title;
 this.description=description;
-this.description=description;
 this.complited=complited;
     }
 }
